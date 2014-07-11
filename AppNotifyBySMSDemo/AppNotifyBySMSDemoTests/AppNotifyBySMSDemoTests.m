@@ -2,8 +2,8 @@
 //  AppNotifyBySMSDemoTests.m
 //  AppNotifyBySMSDemoTests
 //
-//  Created by 王河云 on 14-7-7.
-//  Copyright (c) 2014年 jumei. All rights reserved.
+//  Created by riven on 14-7-7.
+//  Copyright (c) 2014 jumei. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>

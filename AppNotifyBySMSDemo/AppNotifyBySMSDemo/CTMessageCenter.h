@@ -3,7 +3,7 @@
 //  IphoneApp
 //
 //  Created by riven on 14-7-4.
-//  Copyright (c) 2014年 apple. All rights reserved.
+//  Copyright (c) 2014 jumei. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
